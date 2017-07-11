@@ -88,7 +88,7 @@ ABOVE SPECIFICATION IS AND ALWAYS WILL BE USED FOR CANDIDATE SKILLS EVALUATION O
 This project is java-based. So It requires Jdk 1.8 (or later) and Maven 3.5 (or later)  to run.
 
 ```sh
-$ cd base64
+$ cd instrument
 $ mvn package
 $ java -jar target/instrument-1.0.jar 
 ```
