@@ -102,5 +102,5 @@ $ mvn test
 
 ## Rest API
 
- This API has an  endpoint who receives base64 files on <host>:<port>/v1/upload with only "data" parameter. 
+ This API has an  endpoint who receives base64 files on host:port/v1/upload with only "data" parameter. 
  I recommend to use SOAP-UI or Postman for testing.
